@@ -1,2 +1,0 @@
-# rendy
-rendy
